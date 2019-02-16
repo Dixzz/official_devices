@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Zuk Z1",
+        "brand": "Lenovo",
+        "codename": "ham",
+        "supported_versions":[
+            {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name": "Srijith Bharadwaj, Sriram",
+                "maintainer_url": "https://forum.xda-developers.com/member.php?u=8350895",
+                "xda_thread": "https://forum.xda-developers.com/zuk-z1/orig-development/rom-lluviaos-v1-1-t3792422"
+            }
+        ]
+    },
+]
