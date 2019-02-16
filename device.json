@@ -13,4 +13,18 @@
             }
         ]
     },
-]
+    {
+      "name":"Redmi Note 4/4X",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "supported_versions":[
+          {
+                "version_code":"pie",
+                "version_name":"Pie",
+                "maintainer_name":"Satyam Sharma (@Shatyam)",
+                "maintainer_url":"https://forum.xda-developers.com/member.php?u=6795851",
+                "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-t3878701",
+         }
+      ]
+    }
+]   
